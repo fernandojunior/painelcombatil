@@ -17,7 +17,7 @@ body {
 }
 
 #overlay {
-    opacity: 0.8;
+    opacity: 0.3;
     background-color: #E6E6E6;
     position: fixed;
     min-width: 100%;
@@ -44,5 +44,5 @@ header h2 {
 }
 
 footer {
-    color: #767676
+    color: #fff;
 }
