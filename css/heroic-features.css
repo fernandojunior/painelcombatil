@@ -4,18 +4,45 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
 body {
-    //padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-image: url("../images/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
-header {
-
+#overlay {
+    opacity: 0.8;
+    background-color: #E6E6E6;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
 }
 
+header h1, header h2 {
+    color: #000
+}
+
+header h1 {
+    font-size: 46px;
+    font-weight: bold;
+    font-style: normal;
+    letter-spacing: 8px;
+}
+
+header h2 {
+    font-size: 1.7em;
+}
 .hero-feature {
     margin-bottom: 30px;
 }
 
 footer {
-
+    color: #767676
 }
