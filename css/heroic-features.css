@@ -25,22 +25,8 @@ body {
     z-index: -100;
 }
 
-header h1, header h2 {
-    color: #000
-}
-
-header h1 {
-    font-size: 46px;
-    font-weight: bold;
-    font-style: normal;
-    letter-spacing: 8px;
-}
-
-header h2 {
-    font-size: 1.7em;
-}
-.hero-feature {
-    margin-bottom: 30px;
+main {
+    padding-top: 80px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
 footer {
