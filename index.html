@@ -294,6 +294,33 @@
         ga('send', 'pageview');
     </script>
 
+    <script>
+        /**
+        * Function that tracks a click on an outbound link in Analytics
+        * This function takes a valid URL string as an argument, and uses that URL string
+        * as the event label. Setting the transport method to 'beacon' lets the hit be sent
+        * using 'navigator.sendBeacon' in browser that support it.
+        * @link https://support.google.com/analytics/answer/1136920?hl=en
+        * @link https://developers.google.com/analytics/devguides/collection/analyticsjs/single-page-applications
+        */
+        var tracker = function(url) {
+
+            if (url[0] === "#")
+                ga('send', 'pageview', url.replace("#", "/"));
+            else
+                ga('send', 'event', 'outbound', 'click', url);
+            return false;
+        }
+
+        var links = document.getElementsByTagName("a");
+
+        for (var i = 0; i < links.length; i++) {
+            link = links[i];
+            link.setAttribute("onclick", "tracker('" + link.getAttribute("href") + "')");
+        }
+
+    </script>
+
 </body>
 
 </html>
