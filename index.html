@@ -304,14 +304,16 @@
         * @link https://developers.google.com/analytics/devguides/collection/analyticsjs/single-page-applications
         */
         var tracker = function(e) {
-            e.preventDefault()
             url = e.target.getAttribute("href");
             console.log(url);
             if (url[0] === "#")
                 ga('send', 'pageview', url.replace("#", "/"));
             else
                 ga('send', 'event', 'outbound', 'click', url, {
-                    'hitCallback': function () {window.open(url, "_blank")}
+                    'hitCallback': function () {
+                        e.preventDefault();
+                        window.open(url, "_blank");
+                    }
                 });
             return false;
         }
