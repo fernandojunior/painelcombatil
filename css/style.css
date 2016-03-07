@@ -10,7 +10,7 @@ html, body {
 }
 
 body {
-    background-image: url("../images/contabilidade.jpg");
+    background-image: url("../images/bg.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
     background-position: center;
@@ -25,10 +25,21 @@ body {
     z-index: -100;
 }
 
+.navbar-brand img {
+    height: 100%;
+    width: auto;
+    margin-right: 10px;
+}
+
 main {
     padding-top: 80px; /* Required padding for .navbar-fixed-top */
 }
 
 footer {
     color: #fff;
+}
+
+.copyright img {
+    height: 16px;
+    width: auto;
 }
