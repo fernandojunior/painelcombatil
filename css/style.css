@@ -40,7 +40,7 @@ section {
 }
 
 section ul {
-    max-height: 250px;
+    max-height: 240px;
     overflow-y: auto;
 }
 
