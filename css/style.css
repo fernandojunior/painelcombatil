@@ -32,7 +32,11 @@ body {
 }
 
 main {
-    padding-top: 80px; /* Required padding for .navbar-fixed-top */
+    padding-top: 50px; /* Required padding for .navbar-fixed-top */
+}
+
+section {
+    padding-top: 40px;
 }
 
 footer {
