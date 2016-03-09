@@ -1,0 +1,141 @@
+{
+    "description": "Junta Comercial",
+    "short_description": null,
+    "links": [
+        {
+            "url": "http://www.juceac.ac.gov.br/",
+            "description": "Junta Comercial do Estado do Acre",
+            "short_description": "JC-AC",
+        },
+        {
+            "url": "http://www.juceal.al.gov.br/",
+            "description": "Junta Comercial do Estado de Alagoas",
+            "short_description": "JC-AL",
+        },
+        {
+            "url": "http://www.jucap.ap.gov.br/",
+            "description": "Junta Comercial do Estado do Amapá",
+            "short_description": "JC-AP",
+        },
+        {
+            "url": "http://www.jucea.am.gov.br/",
+            "description": "Junta Comercial do Estado do Amazonas",
+            "short_description": "JC-AM",
+        },
+        {
+            "url": "http://www.juceb.ba.gov.br/",
+            "description": "Junta Comercial do Estado da Bahia",
+            "short_description": "JC-BA",
+        },
+        {
+            "url": "http://www.jucec.ce.gov.br/",
+            "description": "Junta Comercial do Estado do Ceará",
+            "short_description": "JC-CE",
+        },
+        {
+            "url": "http://jcdf.smpe.gov.br/",
+            "description": "Junta Comercial do Distrito Federal",
+            "short_description": "JC-DF",
+        },
+        {
+            "url": "https://www.jucees.es.gov.br/",
+            "description": "Junta Comercial do Estado do Espírito Santo",
+            "short_description": "JC-ES",
+        },
+        {
+            "url": "http://www.juceg.go.gov.br/",
+            "description": "Junta Comercial do Estado do Goiás",
+            "short_description": "JC-GO",
+        },
+        {
+            "url": "http://www.jucema.ma.gov.br/",
+            "description": "Junta Comercial do Estado do Maranhão",
+            "short_description": "JC-MA",
+        },
+        {
+            "url": "http://www.jucemat.mt.gov.br/",
+            "description": "Junta Comercial do Estado do Mato Grosso",
+            "short_description": "JC-MT",
+        },
+        {
+            "url": "http://www.jucems.ms.gov.br/",
+            "description": "Junta Comercial do Estado do Mato Grosso do Sul",
+            "short_description": "JC-MS",
+        },
+        {
+            "url": "http://www.jucemg.mg.gov.br/",
+            "description": "Junta Comercial do Estado de Minas Gerais",
+            "short_description": "JC-MG",
+        },
+        {
+            "url": "http://www.jucepa.pa.gov.br/",
+            "description": "Junta Comercial do Estado do Pará",
+            "short_description": "JC-PA",
+        },
+        {
+            "url": "http://www.jucep.pb.gov.br/",
+            "description": "Junta Comercial do Estado da Paraíba",
+            "short_description": "JC-PB",
+        },
+        {
+            "url": "http://www.juntacomercial.pr.gov.br/",
+            "description": "Junta Comercial do Estado do Paraná",
+            "short_description": "JC-PR",
+        },
+        {
+            "url": "http://www.jucepe.pe.gov.br/",
+            "description": "Junta Comercial do Estado de Pernambuco",
+            "short_description": "JC-PE",
+        },
+        {
+            "url": "http://www.jucepi.pi.gov.br/index.php",
+            "description": "Junta Comercial do Estado do Piauí",
+            "short_description": "JC-PI",
+        },
+        {
+            "url": "http://www.jucerja.rj.gov.br/",
+            "description": "Junta Comercial do Estado do Rio de Janeiro",
+            "short_description": "JC-RJ",
+        },
+        {
+            "url": "http://www.jucern.rn.gov.br/",
+            "description": "Junta Comercial do Estado do Rio Grande do Norte",
+            "short_description": "JC-RN",
+        },
+        {
+            "url": "http://www.jucergs.rs.gov.br/",
+            "description": "Junta Comercial do Estado do Rio Grande do Sul",
+            "short_description": "JC-RS",
+        },
+        {
+            "url": "http://www.rondonia.ro.gov.br/jucer/",
+            "description": "Junta Comercial do Estado de Rondônia",
+            "short_description": "JC-RO",
+        },
+        {
+            "url": "http://www.jucerr.rr.gov.br/",
+            "description": "Junta Comercial do Estado de Roraima",
+            "short_description": "JC-RR",
+        },
+        {
+            "url": "http://www.jucesc.sc.gov.br/",
+            "description": "Junta Comercial do Estado de Santa Catarina",
+            "short_description": "JC-SC",
+        },
+        {
+            "url": "http://www.institucional.jucesp.sp.gov.br/",
+            "description": "Junta Comercial do Estado de São Paulo",
+            "short_description": "JC-SP",
+        },
+        {
+            "url": "http://www.jucese.se.gov.br/",
+            "description": "Junta Comercial do Estado de Sergipe",
+            "short_description": "JC-SE",
+        },
+        {
+            "url": "http://jucetins.to.gov.br/",
+            "description": "Junta Comercial do Estado de Tocantins",
+            "short_description": "JC-TO",
+        },
+    ]
+}
