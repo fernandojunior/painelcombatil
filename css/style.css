@@ -16,6 +16,14 @@ body {
     background-position: center;
 }
 
+#idea {
+    background: none;
+    position: fixed;
+    right: 0;
+    top: 50%;
+    //z-index: 9994;
+}
+
 #overlay {
     opacity: 0.3;
     background-color: #e6e6e6;
@@ -49,10 +57,10 @@ section li {
 }
 
 footer {
-    color: #fff;
+    color: #e6e6e6;
 }
 
-.copyright img {
+footer img {
     height: 16px;
     width: auto;
 }
