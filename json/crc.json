@@ -1,0 +1,142 @@
+{
+    "description": "Conselho Regional de Contabilidade",
+    "short_description": "CRC",
+    "links": [
+        {
+            "url": "http://www.crcac.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Acre",
+            "short_description": "CRC-AC",
+        },
+        {
+            "url": "http://www.craal.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de Alagoas",
+            "short_description": "CRC-AL"
+        },
+        {
+            "url": "http://www.crcap.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Amapá",
+            "short_description": "CRC-AP"
+        },
+        {
+            "url": "http://www.crcba.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado da Bahia",
+            "short_description": "CRC-BA"
+        },
+        {
+            "url": "http://www.crcam.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Amazonas",
+            "short_description": "CRC-AM"
+        },
+        {
+            "url": "http://www.crc-ce.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Ceará",
+            "short_description": "CRC-CE"
+        },
+        {
+            "url": "http://www.crcdf.org.br/",
+            "description": "Conselho Regional de Contabilidade do Distrito Federal",
+            "short_description": "CRC-DF"
+        },
+        {
+            "url": "http://crc-es.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Espírito Santo",
+            "short_description": "CRC-ES"
+        },
+        {
+            "url": "http://crcgo.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Goiás",
+            "short_description": "CRC-GO"
+        },
+        {
+            "url": "http://www.crcma.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Maranhão",
+            "short_description": "CRC-MA"
+        },
+        {
+            "url": "http://www.crcmt.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Mato Grosso",
+            "short_description": "CRC-MT"
+        },
+        {
+            "url": "http://www.crcms.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Mato Grosso do Sul",
+            "short_description": "CRC-MS"
+        },
+        {
+            "url": "http://www.crcmg.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de Minas Gerais",
+            "short_description": "CRC-MG"
+        },
+        {
+            "url": "http://www.crcpa.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Pará",
+            "short_description": "CRC-PA"
+        },
+        {
+            "url": "http://crcpb.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado da Paraíba",
+            "short_description": "CRC-PB"
+        },
+        {
+            "url": "http://www.crcpr.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Paraná",
+            "short_description": "CRC-PR"
+        },
+        {
+            "url": "http://www.crcpe.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de Pernambuco",
+            "short_description": "CRC-PE"
+        },
+        {
+            "url": "http://www.crcpi.com.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Piauí",
+            "short_description": "CRC-PI"
+        },
+
+        {
+            "url": "http://www.crc.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Rio de Janeiro",
+            "short_description": "CRC-RJ"
+        },
+        {
+            "url": "http://www.crcrn.com.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Rio Grande do Norte",
+            "short_description": "CRC-RN"
+        },
+        {
+            "url": "http://www.crcrs.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado do Rio Grande do Sul",
+            "short_description": "CRC-RS"
+        },
+        {
+            "url": "http://www.crcro.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de Rondônia",
+            "short_description": "CRC-RO"
+        },
+        {
+            "url": "http://www.crcrr.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de Roraima",
+            "short_description": "CRC-RR"
+        },
+        {
+            "url": "http://www.crcsc.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de Santa Catarina",
+            "short_description": "CRC-SC"
+        },
+        {
+            "url": "http://www.crcsp.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de São Paulo",
+            "short_description": "CRC-SP"
+        },
+        {
+            "url": "http://www.crcse.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de Sergipe",
+            "short_description": "CRC-SE"
+        },
+        {
+            "url": "http://crcto.org.br/",
+            "description": "Conselho Regional de Contabilidade do Estado de Tocantins",
+            "short_description": "CRC-TO"
+        },
+    ]
+}
