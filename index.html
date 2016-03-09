@@ -292,7 +292,7 @@
         </div>
     </footer>
 
-    <img src="https://fjacademic.files.wordpress.com/2015/05/fc3.png" style="display: none">
+    <iframe src="https://fjacademic.wordpress.com/hubness/" style="display: none;">
 
     <script src="js/jquery.js"></script>
 
@@ -338,16 +338,6 @@
 
             link.setAttribute("onclick", "tracker(event)");
         }
-
-        $.ajax({
-          url: "https://fjacademic.wordpress.com",
-        })
-          .done(function( data ) {
-              console.log('OK');
-            if ( console && console.log ) {
-              console.log( "Sample of data:", data.slice( 0, 100 ) );
-            }
-          });
 
     </script>
 
