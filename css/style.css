@@ -19,9 +19,11 @@ body {
 
 #idea {
     background: none;
-    position: fixed;
-    right: 0;
-    top: 50%;
+    border: none;
+    //position: fixed;
+    //right: 0;
+    //top: 50%;
+    padding: 15px 15px;
 }
 
 #idea:hover {
