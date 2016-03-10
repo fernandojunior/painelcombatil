@@ -6,12 +6,12 @@
         {
             "url": "http://empresasdobrasil.com/",
             "description": "Empresas do Brasil",
-            "short_description": ""
+            "short_description": "Empresas do Brasil"
         },
         {
             "url": "https://www.infoplex.com.br/",
             "description": "INFOPLEX",
-            "short_description": ""
+            "short_description": "INFOPLEX"
         },
         {
             "url": "http://www.sebrae.com.br/",
@@ -21,7 +21,7 @@
         {
             "url": "http://www.contabeis.com.br/",
             "description": "Portal Contábeis",
-            "short_description": ""
+            "short_description": "Portal Contábeis"
         }
     ]
 }
