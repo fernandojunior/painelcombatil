@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "short_description": "",
+    "links": [
+        {
+            "url": "https://www.confaz.fazenda.gov.br/",
+            "description": "Conselho Nacional de Política Fazendária",
+            "short_description": "CONFAZ"
+        },
+        {
+            "url": "https://www.empresasimples.gov.br/",
+            "description": "Portal Empresa Simples",
+            "short_description": "Portal Empresa Simples"
+        },
+        {
+            "url": "http://www.portaldoempreendedor.gov.br/",
+            "description": "Portal do Microempreendedor Individual",
+            "short_description": "Portal do MEI"
+        },
+        {
+            "url": "http://previdencia.gov.br/",
+            "description": "Ministério da Previdência Social",
+            "short_description": "Previdência Social"
+        },
+        {
+            "url": "http://idg.receita.fazenda.gov.br/",
+            "description": "Receita Federal do Brasil",
+            "short_description": "Receita Federal"
+        },
+        {
+            "url": "http://smpe.gov.br/",
+            "description": "Secretaria Espcecial da Micro e Pequena Empresa",
+            "short_description": "Secretaria da Micro e Pequena Empresa"
+        },
+        {
+            "url": "http://www8.receita.fazenda.gov.br/SimplesNacional/",
+            "description": "Simples Nacional",
+            "short_description": ""
+        },
+        {
+            "url": "http://www.sintegra.gov.br/",
+            "description": "Sistema Integrado de Informações Sobre Operações Interestaduais com Mercadorias e Serviços",
+            "short_description": "Sintegra"
+        },
+        {
+            "url": "http://www.sped.fazenda.gov.br/",
+            "description": "Sistema Público de Escrituração Digital",
+            "short_description": "Sped"
+        }
+    ]
+}
