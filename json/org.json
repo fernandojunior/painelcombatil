@@ -1,0 +1,36 @@
+{
+    "description": "",
+    "short_description": "",
+    "links": [
+        {
+            "url": "http://www.abracicon.org/",
+            "description": "Acadêmia Brasileira de Ciências Contabéis",
+            "short_description": "ABRACICON"
+        },
+        {
+            "url": "http://www.cfc.org.br/",
+            "description": "Conselho Federal de Contabilidade",
+            "short_description": "CFC"
+        },
+        {
+            "url": "http://www.cpc.org.br/",
+            "description": "Comitê de Pronunciamentos Contábeis",
+            "short_description": "CPC"
+        },
+        {
+            "url": "http://www.fenacon.org.br/",
+            "description": "Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícias, Informações e Pesquisas",
+            "short_description": "Fenacon"
+        },
+        {
+            "url": "http://www.fbc.org.br/",
+            "description": "Fundação Brasileira de Contabilidade",
+            "short_description": "FBC"
+        },
+        {
+            "url": "http://www.fipecafi.org/",
+            "description": "Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras",
+            "short_description": "FIPECAFI"
+        }
+    ]
+}
