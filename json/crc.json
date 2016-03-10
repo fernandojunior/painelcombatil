@@ -5,7 +5,7 @@
         {
             "url": "http://www.crcac.org.br/",
             "description": "Conselho Regional de Contabilidade do Estado do Acre",
-            "short_description": "CRC-AC",
+            "short_description": "CRC-AC"
         },
         {
             "url": "http://www.craal.org.br/",
@@ -92,7 +92,6 @@
             "description": "Conselho Regional de Contabilidade do Estado do Piauí",
             "short_description": "CRC-PI"
         },
-
         {
             "url": "http://www.crc.org.br/",
             "description": "Conselho Regional de Contabilidade do Estado do Rio de Janeiro",
@@ -137,6 +136,6 @@
             "url": "http://crcto.org.br/",
             "description": "Conselho Regional de Contabilidade do Estado de Tocantins",
             "short_description": "CRC-TO"
-        },
+        }
     ]
 }
