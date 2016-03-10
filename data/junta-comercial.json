@@ -1,6 +1,7 @@
 {
     "description": "Junta Comercial",
     "short_description": null,
+    "slug": "junta-comercial",
     "links": [
         {
             "url": "http://www.juceac.ac.gov.br/",

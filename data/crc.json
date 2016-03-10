@@ -1,6 +1,7 @@
 {
     "description": "Conselho Regional de Contabilidade",
     "short_description": "CRC",
+    "slug": "crc",
     "links": [
         {
             "url": "http://www.crcac.org.br/",

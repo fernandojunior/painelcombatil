@@ -1,6 +1,7 @@
 {
     "description": "Rede Nacional para a Simplificação do Registro e Legalização de Empresas e Negócios",
     "short_description": "Redesim",
+    "slug": "redesim",
     "links": [
         {
             "url": "",

@@ -1,6 +1,7 @@
 {
     "description": "Secretaria de Estado da Fazenda",
     "short_description": "Sefaz",
+    "slug": "sefaz",
     "links": [
         {
             "url": "http://www.sefaz.ac.gov.br/",

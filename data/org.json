@@ -1,6 +1,7 @@
 {
     "description": "Organização",
     "short_description": ".org",
+    "slug": "org",
     "links": [
         {
             "url": "http://www.abracicon.org/",

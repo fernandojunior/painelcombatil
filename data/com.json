@@ -1,6 +1,7 @@
 {
     "description": "Comercial",
     "short_description": ".com",
+    "slug": "com",
     "links": [
         {
             "url": "http://empresasdobrasil.com/",
