@@ -1,0 +1,36 @@
+{
+    "description": "Termos e significados",
+    "short_description": "",
+    "links": [
+        {
+            "url": "http://www.cte.fazenda.gov.br/",
+            "description": "Conhecimento de Transporte Eletrônico",
+            "short_description": "CT-e"
+        },
+        {
+            "url": "",
+            "description": "Documento Fiscal Eletrônico",
+            "short_description": "DF-e"
+        },
+        {
+            "url": "http://www.nfe.fazenda.gov.br/PORTAL/principal.aspx",
+            "description": "Nota Fiscal Eletrônica",
+            "short_description": "NF-e"
+        },
+        {
+            "url": "",
+            "description": "Nota Fiscal ao Consumidor Eletrônica",
+            "short_description": "NFC-e"
+        },
+        {
+            "url": "http://www1.receita.fazenda.gov.br/sistemas/nfse/o-que-e.htm",
+            "description": "Nota Fiscal de Serviço Eletrônica",
+            "short_description": "NFS-e"
+        },
+        {
+            "url": "",
+            "description": "Nota Fiscal Avulsa Eletrônica",
+            "short_description": "NFA-e"
+        }
+    ]
+}
