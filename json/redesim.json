@@ -1,0 +1,141 @@
+{
+    "description": "Rede Nacional para a Simplificação do Registro e Legalização de Empresas e Negócios",
+    "short_description": "Redesim",
+    "links": [
+        {
+            "url": "",
+            "description": "Redesim do Estado do Acre",
+            "short_description": "Redesim-AC"
+        },
+        {
+            "url": "http://www.facilita.al.gov.br/",
+            "description": "Redesim do Estado de Alagoas",
+            "short_description": "Redesim-AL"
+        },
+        {
+            "url": "http://www.empresafacil.ap.gov.br/",
+            "description": "Redesim do Estado do Amapá",
+            "short_description": "Redesim-AP"
+        },
+        {
+            "url": "http://www.empresasuperfacil.am.gov.br/",
+            "description": "Redesim do Estado do Amazonas",
+            "short_description": "Redesim-AM"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado da Bahia",
+            "short_description": "Redesim-BA"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado do Ceará",
+            "short_description": "Redesim-CE"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Distrito Federal",
+            "short_description": "Redesim-DF"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado do Espírito Santo",
+            "short_description": "Redesim-ES"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado do Goiás",
+            "short_description": "Redesim-GO"
+        },
+        {
+            "url": "http://www.empresafacil.ma.gov.br/",
+            "description": "Redesim do Estado do Maranhão",
+            "short_description": "Redesim-MA"
+        },
+        {
+            "url": "http://redesim.jucemat.mt.gov.br/",
+            "description": "Redesim do Estado do Mato Grosso",
+            "short_description": "Redesim-MT"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado do Mato Grosso do Sul",
+            "short_description": "Redesim-MS"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado de Minas Gerais",
+            "short_description": "Redesim-MG"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado do Pará",
+            "short_description": "Redesim-PA"
+        },
+        {
+            "url": "http://www.redesim.pb.gov.br/",
+            "description": "Redesim do Estado da Paraíba",
+            "short_description": "Redesim-PB"
+        },
+        {
+            "url": "http://www.empresafacil.pr.gov.br/",
+            "description": "Redesim do Estado do Paraná",
+            "short_description": "Redesim-PR"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado de Pernambuco",
+            "short_description": "Redesim-PE"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado do Piauí",
+            "short_description": "Redesim-PI"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado do Rio de Janeiro",
+            "short_description": "Redesim-RJ"
+        },
+        {
+            "url": "http://www.redesim.rn.gov.br/",
+            "description": "Redesim do Estado do Rio Grande do Norte",
+            "short_description": "Redesim-RN"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado do Rio Grande do Sul",
+            "short_description": "Redesim-RS"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado de Rondônia",
+            "short_description": "Redesim-RO"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado de Roraima",
+            "short_description": "Redesim-RR"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado de Santa Catarina",
+            "short_description": "Redesim-SC"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado de São Paulo",
+            "short_description": "Redesim-SP"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado de Sergipe",
+            "short_description": "Redesim-SE"
+        },
+        {
+            "url": "",
+            "description": "Redesim do Estado de Tocantins",
+            "short_description": "Redesim-TO"
+        }
+    ]
+}
