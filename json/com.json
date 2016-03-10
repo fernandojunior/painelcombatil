@@ -1,0 +1,26 @@
+{
+    "description": "Comercial",
+    "short_description": ".com",
+    "links": [
+        {
+            "url": "http://empresasdobrasil.com/",
+            "description": "Empresas do Brasil",
+            "short_description": ""
+        },
+        {
+            "url": "https://www.infoplex.com.br/",
+            "description": "INFOPLEX",
+            "short_description": ""
+        },
+        {
+            "url": "http://www.sebrae.com.br/",
+            "description": "Serviço Brasileiro de Apoio às Micro e Pequenas Empresas",
+            "short_description": "Sebrae"
+        },
+        {
+            "url": "http://www.contabeis.com.br/",
+            "description": "Portal Contábeis",
+            "short_description": ""
+        }
+    ]
+}
