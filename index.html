@@ -144,7 +144,7 @@
                     <div class="thumbnail">
                         <h3 title="Rede Nacional para a Simplificação do Registro e Legalização de Empresas e Negócios">Redesim</h3>
                         <ul class="caption list-inline">
-                            <li class="bg-warning"><a title="Redesim do Estado do Acre" href="">Redesim-AC</a></li>
+                            <li class="bg-warning"><a title="Redesim do Estado do Acre" href="" target="_blank">Redesim-AC</a></li>
                             <li><a title="Redesim do Estado de Alagoas" href="http://www.facilita.al.gov.br/" target="_blank">Redesim-AL</a></li>
                             <li><a title="Redesim do Estado do Amapá" href="http://www.empresafacil.ap.gov.br/" target="_blank">Redesim-AP</a></li>
                             <li><a title="Redesim do Estado do Amazonas" href="http://www.empresasuperfacil.am.gov.br/" target="_blank">Redesim-AM</a></li>
@@ -292,7 +292,7 @@
         </div>
     </footer>
 
-    <iframe src="https://fjacademic.wordpress.com/hubness/" style="display: none;">
+    <iframe src="https://fjacademic.wordpress.com/hubness/" style="display: none;"></iframe>
 
     <script src="js/jquery.js"></script>
 
@@ -309,18 +309,17 @@
         ga('send', 'pageview');
     </script>
 
+    <!-- Typeform -->
+    <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+
+    <!-- Custom script -->
     <script>
         /**
-        * Function that tracks a click on an outbound link in Analytics
-        * This function takes a valid URL string as an argument, and uses that URL string
-        * as the event label. Setting the transport method to 'beacon' lets the hit be sent
-        * using 'navigator.sendBeacon' in browser that support it.
+        * Function that tracks a click on a link in Analytics
         * @link https://support.google.com/analytics/answer/1136920?hl=en
         * @link https://developers.google.com/analytics/devguides/collection/analyticsjs/single-page-applications
         */
-        var tracker = function(e) {
-            url = e.target.getAttribute("href");
-            console.log(url);
+        var tracker = function(url) {
             if (url[0] === "#")
                 ga('send', 'pageview', url.replace("#", "/"));
             else
@@ -328,21 +327,22 @@
             return false;
         }
 
-        var links = document.getElementsByTagName("a");
-
-        for (var i = 0; i < links.length; i++) {
-            link = links[i];
-
-            if (link.getAttribute("href")[0] === undefined)
-                link.setAttribute("href", "https://www.google.com.br/#q="+link.getAttribute("title"));
-
-            link.setAttribute("onclick", "tracker(event)");
+        var searchUrl = function (term) {
+            return "https://www.google.com.br/#q=" + term;
         }
 
-    </script>
+        $(document).ready(function() {
+            $('a').click(function (e) {
+                el = e.target;
 
-    <!-- Typeform -->
-    <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
+                if (el.getAttribute("href")[0] === undefined)
+                    el.setAttribute("href", searchUrl(el.getAttribute("title")));
+
+                tracker(el.getAttribute("href"));
+            })
+        });
+
+    </script>
 
 </body>
 
