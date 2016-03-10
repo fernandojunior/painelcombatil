@@ -1,0 +1,141 @@
+{
+    "description": "Secretaria de Estado da Fazenda",
+    "short_description": "Sefaz",
+    "links": [
+        {
+            "url": "http://www.sefaz.ac.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Acre",
+            "short_description": "Sefaz-AC"
+        },
+        {
+            "url": "http://www.sefaz.al.gov.br/",
+            "description": "Secretaria de Estado da Fazenda de Alagoas",
+            "short_description": "Sefaz-AL"
+        },
+        {
+            "url": "http://www.sefaz.ap.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Amapá",
+            "short_description": "Sefaz-AP"
+        },
+        {
+            "url": "http://www.sefaz.am.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Amazonas",
+            "short_description": "Sefaz-AM"
+        },
+        {
+            "url": "http://www.sefaz.ba.gov.br/",
+            "description": "Secretaria de Estado da Fazenda da Bahia",
+            "short_description": "Sefaz-BA"
+        },
+        {
+            "url": "http://www.sefaz.ce.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Ceará",
+            "short_description": "Sefaz-CE"
+        },
+        {
+            "url": "http://www.fazenda.df.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Distrito Federal",
+            "short_description": "Sefaz-DF"
+        },
+        {
+            "url": "http://www.sefaz.es.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Espírito Santo",
+            "short_description": "Sefaz-ES"
+        },
+        {
+            "url": "http://www.sefaz.go.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Goiás",
+            "short_description": "Sefaz-GO"
+        },
+        {
+            "url": "http://portal.sefaz.ma.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Maranhão",
+            "short_description": "Sefaz-MA"
+        },
+        {
+            "url": "https://www.sefaz.mt.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Mato Grosso",
+            "short_description": "Sefaz-MT"
+        },
+        {
+            "url": "http://www.sefaz.ms.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Mato Grosso do Sul",
+            "short_description": "Sefaz-MS"
+        },
+        {
+            "url": "http://www.fazenda.mg.gov.br/",
+            "description": "Secretaria de Estado da Fazenda de Minas Gerais",
+            "short_description": "Sefaz-MG"
+        },
+        {
+            "url": "http://www.sefa.pa.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Pará",
+            "short_description": "Sefaz-PA"
+        },
+        {
+            "url": "https://www.receita.pb.gov.br/",
+            "description": "Secretaria de Estado da Fazenda da Paraíba",
+            "short_description": "Sefaz-PB"
+        },
+        {
+            "url": "http://www.fazenda.pr.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Paraná",
+            "short_description": "Sefaz-PR"
+        },
+        {
+            "url": "https://www.sefaz.pe.gov.br",
+            "description": "Secretaria de Estado da Fazenda de Pernambuco",
+            "short_description": "Sefaz-PE"
+        },
+        {
+            "url": "http://www.sefaz.pi.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Piauí",
+            "short_description": "Sefaz-PI"
+        },
+        {
+            "url": "http://www.fazenda.rj.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Rio de Janeiro",
+            "short_description": "Sefaz-RJ"
+        },
+        {
+            "url": "http://www.set.rn.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Rio Grande do Norte",
+            "short_description": "Sefaz-RN"
+        },
+        {
+            "url": "https://www.sefaz.rs.gov.br/",
+            "description": "Secretaria de Estado da Fazenda do Rio Grande do Sul",
+            "short_description": "Sefaz-RS"
+        },
+        {
+            "url": "http://www.sefin.ro.gov.br/",
+            "description": "Secretaria de Estado da Fazenda de Rondônia",
+            "short_description": "Sefaz-RO"
+        },
+        {
+            "url": "https://www.sefaz.rr.gov.br/",
+            "description": "Secretaria de Estado da Fazenda de Roraima",
+            "short_description": "Sefaz-RR"
+        },
+        {
+            "url": "http://www.sef.sc.gov.br/",
+            "description": "Secretaria de Estado da Fazenda de Santa Catarina",
+            "short_description": "Sefaz-SC"
+        },
+        {
+            "url": "http://www.fazenda.sp.gov.br/",
+            "description": "Secretaria de Estado da Fazenda de São Paulo",
+            "short_description": "Sefaz-SP"
+        },
+        {
+            "url": "http://www.sefaz.se.gov.br/",
+            "description": "Secretaria de Estado da Fazenda de Sergipe",
+            "short_description": "Sefaz-SE"
+        },
+        {
+            "url": "http://www.sefaz.to.gov.br/",
+            "description": "Secretaria de Estado da Fazenda de Tocantins",
+            "short_description": "Sefaz-TO"
+        }
+    ]
+}
