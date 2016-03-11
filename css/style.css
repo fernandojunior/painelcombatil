@@ -35,12 +35,13 @@ body {
 }
 
 main {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top */
+    padding-top: 70px; /* Required padding for .navbar-fixed-top */
     background-color: #e9eaed;
 }
 
 section {
-    padding-top: 30px;
+    /*padding-top: 35px;*/
+    text-align: center;
 }
 
 section h3 {
@@ -62,7 +63,6 @@ footer {
     padding-top: 50px;
     padding-bottom: 50px;
     color: #99979c;
-    text-align: center;
     background-color: #2a2730;
 }
 
