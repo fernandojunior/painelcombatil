@@ -47,8 +47,7 @@ section li {
 }
 
 footer {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    margin-top: 20px;
     color: #99979c;
     text-align: center;
 }
