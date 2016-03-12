@@ -34,7 +34,7 @@
     <link href="css/style.css" rel="stylesheet">
 
     <script id="section-template" type="text">
-        <section class="col-md-3" id="{{slug}}">
+        <section class="col-md-4" id="{{slug}}">
             <div class="thumbnail">
                 <h3 title="{{description}}">{{short_description}}</h3>
                 <ul class="caption list-inline">
@@ -66,23 +66,23 @@
 
     <main>
         <div class="container">
-            <div class="row">
-                <section class="col-md-3">
-                    <div class="thumbnail">
-                        <input id="search" readonly="true" autofocus="true" type="text" class="form-control text-right" placeholder="pesquisar pb">
-                        <ul class="caption list-inline">
-                            <li><a title="Conselho Regional de Contabilidade do Estado da Paraíba" href="http://crcpb.org.br/" target="_blank">CRC-PB</a></li>
-                            <li><a title="Junta Comercial do Estado do Estado da Paraíba" href="http://www.jucep.pb.gov.br/" target="_blank">JC-PB</a></li>
-                            <li><a title="Rede Nacional para a Simplificação do Registro e Legalização de Empresas e Negócios - Paraíba" href="http://www.redesim.pb.gov.br/" target="_blank">Redesim-PB</a></li>
-                            <li><a title="Secretaria de Estado da Fazenda da Paraíba" href="https://www.receita.pb.gov.br/ser/" target="_blank">Sefaz-PB</a></li>
-                        </ul>
-                    </div>
-                </section>
+            <div id="search">
+                <input readonly="true" autofocus="true" type="text" class="pull-right" placeholder="pesquisar pb">
+                <ul class="caption list-inline pull-right">
+                    <li><a title="Conselho Regional de Contabilidade do Estado da Paraíba" href="http://crcpb.org.br/" target="_blank">CRC-PB</a></li>
+                    <li><a title="Junta Comercial do Estado do Estado da Paraíba" href="http://www.jucep.pb.gov.br/" target="_blank">JC-PB</a></li>
+                    <li><a title="Rede Nacional para a Simplificação do Registro e Legalização de Empresas e Negócios - Paraíba" href="http://www.redesim.pb.gov.br/" target="_blank">Redesim-PB</a></li>
+                    <li><a title="Secretaria de Estado da Fazenda da Paraíba" href="https://www.receita.pb.gov.br/ser/" target="_blank">Sefaz-PB</a></li>
+                </ul>
             </div>
+        </div>
+
+        <div class="container">
+            <div id="content"></div>
         </div>
     </main>
 
-    <footer>
+    <footer class="footer">
         <div class="container">
             <span class="">
             &copy; 2016 Fernando Felix do Nascimento Junior

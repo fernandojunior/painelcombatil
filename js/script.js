@@ -36,7 +36,7 @@
     }
 
     var createMain = function () {
-        main = $("main .container");
+        main = $("#content");
 
         var resources = [
             "data/crc.json",
@@ -49,7 +49,7 @@
             "data/org.json"
         ];
 
-        $.each(matrix(resources, 4), function(i, subresources) {
+        $.each(matrix(resources, 3), function(i, subresources) {
             var row = $("<div>", {"class": "row"});
 
             $.each(subresources, function(j, resource) {

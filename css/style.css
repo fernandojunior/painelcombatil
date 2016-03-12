@@ -7,11 +7,6 @@ html {
     height: 100%;
 }
 
-body {
-    background: radial-gradient(ellipse at bottom, #415154 0%,#1e2226 100%);
-    // font-family: Roboto;
-}
-
 .navbar-default {
     background: rgba(255, 255, 255, 0.85);
 }
@@ -47,9 +42,11 @@ section li {
 }
 
 footer {
-    margin-top: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     color: #99979c;
     text-align: center;
+    background: radial-gradient(ellipse at bottom, #415154 0%,#1e2226 100%);
 }
 
 footer a {
@@ -76,6 +73,19 @@ footer li.active a {
 
 #idea:hover {
     background: #ddd;
+}
+
+#search input {
+    display: block;
+    width: 100%;
+    font-size: 34px;
+    line-height: 44px;
+    background: 0 0;
+    border: none;
+    border-bottom: 1px dotted rgba(0,0,0,.4);
+    padding: 5px 0;
+    border-radius: 0;
+    text-align: right;
 }
 
 ::-webkit-scrollbar {
