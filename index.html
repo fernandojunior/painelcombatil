@@ -34,16 +34,22 @@
     <link href="css/style.css" rel="stylesheet">
 
     <script id="section-template" type="text">
-        <section class="col-md-4" id="{{slug}}">
-            <div class="thumbnail">
-                <h3 title="{{description}}">{{short_description}}</h3>
-                <ul class="caption list-inline">
-                {{#links}}
-                <li><a title="{{description}}" href="{{&url}}" target="_blank">{{short_description}}</a></li>
-                {{/links}}
-                </ul>
+
+        <section class="col-md-4">
+            <div id="{{slug}}" class="panel">
+                <div class="panel-heading">
+                <h3 class="panel-title" title="{{description}}">{{short_description}}</h3>
+                </div>
+                <div class="panel-body">
+                    <ul class="list-inline">
+                    {{#links}}
+                    <li><a title="{{description}}" href="{{&url}}" target="_blank">{{short_description}}</a></li>
+                    {{/links}}
+                    </ul>
+                </div>
             </div>
         </section>
+
     </script>
 
 </head>

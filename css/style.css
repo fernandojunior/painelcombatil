@@ -22,22 +22,26 @@ main {
     background-color: #e9eaed;
 }
 
-section {
+.panel {
     text-align: center;
 }
 
-section h3 {
+.panel h3 {
     margin-top: 10px;
     margin-bottom: 10px;
     color: #333;
 }
 
-section ul {
-    max-height: 189px;
+.panel-body {
+    padding: 0px;
+}
+
+.panel ul {
+    max-height: 185px;
     overflow-y: auto;
 }
 
-section li {
+.panel li {
     margin: 5px;
 }
 
